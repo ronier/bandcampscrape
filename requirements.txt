@@ -1,0 +1,7 @@
+args==0.1.0
+beautifulsoup4==4.3.2
+clint==0.4.1
+demjson==2.2.2
+mutagen==1.26
+requests==2.4.3
+wsgiref==0.1.2
